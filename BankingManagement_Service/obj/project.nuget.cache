@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "DxVCW8EUIEaCsx7++rNK4as5lvrzUfE6UjllvWc6x8GGBnbF2T5w+mUPT9HGKyxDrvJC6u3XW2xn9Lgg+pRY+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ausu\\Desktop\\Kata Light\\BankingManagementSystem_Light\\BankingManagement_Service\\BankingManagement_Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ausu\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\ausu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\ausu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ausu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ausu\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\ausu\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ausu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
